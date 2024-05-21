@@ -20,5 +20,5 @@ Para as queries, foi usado um container correndo localmente do `GraphDB` para te
 + `Disease_*.csv` e `pg54273.json` -> Ficheiros de dados fornecidos;
 + `med_*.ttl` -> Ficheiros `.ttl` criados;
 + `main.py` -> Script Pyhton para criar os `.ttl`;
-+ `queries.txt` -> Arquivo com as queries feitas;
++ `queries.md` -> Arquivo com as queries feitas;
 + `query-result.ttl` -> Resultado da query `CONSTRUCT`.
